@@ -1,0 +1,6 @@
+
+
+ListenerSocket.cc and ListenerSocket.h,  handles the Tcp connection with "tcp_sender".
+
+The project is compiled with ninja "webrtc_modified/src/out/Debug"
+The files to compile are found in "webrtc_modified/src/talk/libjingle_examples.gyp" Line 107-125
